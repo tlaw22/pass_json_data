@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "Winner",
+      "name": "Street Fighter 6",
+      "description": "Capcom"
+    },
+    {
+      "id": "Silver",
+      "name": "Mortal Kombat 11",
+      "description": "RARE"
+    },
+    {
+      "id": "Bronze",
+      "name": "Killer Instinct",
+      "description": "RARE"
+    },
+    {
+      "id": "4th Place",
+      "name": "Samuri Showdown",
+      "description": "SNK"
+    }
+  ]
+}
